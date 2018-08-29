@@ -1,0 +1,81 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-06-22 01:29:56
+count workspace : /home/gedor/Desktop/joginho_2
+total files : 69
+total code lines : 2233
+total comment lines : 123
+total blank lines : 480
+
+exe, it is a binary file.
+got.png, it is a binary file.
+Headers/Avengers.ttf, it is a binary file.
+Headers/Background.hpp, code is 21, comment is 0, blank is 4.
+Headers/Bat.hpp, code is 16, comment is 0, blank is 5.
+Headers/Batman.hpp, code is 16, comment is 0, blank is 4.
+Headers/Character.hpp, code is 35, comment is 0, blank is 12.
+Headers/Element.hpp, code is 48, comment is 0, blank is 9.
+Headers/Enemy.hpp, code is 12, comment is 0, blank is 3.
+Headers/Entity.hpp, code is 41, comment is 0, blank is 9.
+Headers/EntityList.hpp, code is 6, comment is 0, blank is 1.
+Headers/GameEngine.hpp, code is 28, comment is 0, blank is 3.
+Headers/Graph.hpp, code is 7, comment is 0, blank is 2.
+Headers/GraphicEffects/Darkness.hpp, code is 17, comment is 0, blank is 5.
+Headers/IronMan.hpp, code is 14, comment is 0, blank is 4.
+Headers/Level.hpp, code is 18, comment is 0, blank is 4.
+Headers/Level1.hpp, code is 31, comment is 0, blank is 9.
+Headers/Level2.hpp, code is 30, comment is 0, blank is 10.
+Headers/LevelList.hpp, code is 16, comment is 0, blank is 9.
+Headers/Magic/LightningBolt.hpp, code is 0, comment is 0, blank is 0.
+Headers/Menu.hpp, code is 25, comment is 0, blank is 2.
+Headers/Obstacle.hpp, code is 13, comment is 0, blank is 5.
+Headers/Player.hpp, code is 13, comment is 0, blank is 6.
+Headers/Policecop.hpp, code is 17, comment is 0, blank is 5.
+Headers/Powers/Hurricane.hpp, code is 17, comment is 0, blank is 8.
+Headers/State.hpp, code is 16, comment is 0, blank is 3.
+Headers/Superman.hpp, code is 16, comment is 0, blank is 3.
+Headers/Thor.hpp, code is 29, comment is 0, blank is 4.
+Images/Avengers.ttf, it is a binary file.
+Images/bat.png, it is a binary file.
+Images/batalterado.png, it is a binary file.
+Images/batsocoarrumado.png, it is a binary file.
+Images/bolt.png, it is a binary file.
+Images/coppolice.png, it is a binary file.
+Images/copwalkpunch170.png, it is a binary file.
+Images/fase2.png, it is a binary file.
+Images/Game Boy Advance - Crash Nitro Kart - Tornado.png, it is a binary file.
+Images/Game Boy Advance - Golden Sun - Blue Bolt.png, it is a binary file.
+Images/gas.jpeg, it is a binary file.
+Images/go.png, it is a binary file.
+Images/got.png, it is a binary file.
+Images/gothan.jpg, it is a binary file.
+Images/gothan4.jpg, it is a binary file.
+Images/hurricane.png, it is a binary file.
+Images/Iron.png, it is a binary file.
+Images/ironMan.png, it is a binary file.
+Images/l2.png, it is a binary file.
+Images/odinson.png, it is a binary file.
+Images/stark.png, it is a binary file.
+Images/superpunch.png, it is a binary file.
+Images/thor.jpg, it is a binary file.
+main.cpp, code is 16, comment is 92, blank is 6.
+makefile, code is 8, comment is 0, blank is 1.
+README, code is 9, comment is 0, blank is 2.
+Sources/Background.cpp, code is 35, comment is 2, blank is 8.
+Sources/Bat.cpp, code is 46, comment is 0, blank is 15.
+Sources/Batman.cpp, code is 151, comment is 0, blank is 35.
+Sources/EntityList.cpp, code is 141, comment is 0, blank is 17.
+Sources/GameEngine.cpp, code is 143, comment is 12, blank is 29.
+Sources/GraphicEffects/Darkness.cpp, code is 23, comment is 0, blank is 8.
+Sources/IronMan.cpp, code is 142, comment is 1, blank is 20.
+Sources/Level1.cpp, code is 161, comment is 4, blank is 61.
+Sources/Level2.cpp, code is 155, comment is 2, blank is 32.
+Sources/LevelList.cpp, code is 63, comment is 0, blank is 9.
+Sources/Menu.cpp, code is 129, comment is 7, blank is 23.
+Sources/Policecop.cpp, code is 54, comment is 0, blank is 15.
+Sources/Powers/Hurricane.cpp, code is 31, comment is 0, blank is 7.
+Sources/Superman.cpp, code is 148, comment is 0, blank is 25.
+Sources/Thor.cpp, code is 276, comment is 3, blank is 38.
+===============================================================================

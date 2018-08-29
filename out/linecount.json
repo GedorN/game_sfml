@@ -1,0 +1,457 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "/home/gedor/Desktop/joginho_2",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2018-06-22 01:29:56",
+            "filesum": 69,
+            "codesum": 2233,
+            "commentsum": 123,
+            "blanksum": 480,
+            "filelist": [
+                {
+                    "filename": "exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "got.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Headers/Avengers.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "Headers/Background.hpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "Headers/Bat.hpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "Headers/Batman.hpp"
+                },
+                {
+                    "blank": 12,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "Headers/Character.hpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "Headers/Element.hpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Headers/Enemy.hpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "Headers/Entity.hpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Headers/EntityList.hpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "Headers/GameEngine.hpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "Headers/Graph.hpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Headers/GraphicEffects/Darkness.hpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Headers/IronMan.hpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Headers/Level.hpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "Headers/Level1.hpp"
+                },
+                {
+                    "blank": 10,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "Headers/Level2.hpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "Headers/LevelList.hpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "Headers/Magic/LightningBolt.hpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "Headers/Menu.hpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Headers/Obstacle.hpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "Headers/Player.hpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Headers/Policecop.hpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Headers/Powers/Hurricane.hpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "Headers/State.hpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "Headers/Superman.hpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "Headers/Thor.hpp"
+                },
+                {
+                    "filename": "Images/Avengers.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/bat.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/batalterado.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/batsocoarrumado.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/bolt.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/coppolice.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/copwalkpunch170.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/fase2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/Game Boy Advance - Crash Nitro Kart - Tornado.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/Game Boy Advance - Golden Sun - Blue Bolt.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/gas.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/go.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/got.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/gothan.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/gothan4.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/hurricane.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/Iron.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/ironMan.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/l2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/odinson.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/stark.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/superpunch.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Images/thor.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 16,
+                    "comment": 92,
+                    "filename": "main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "makefile"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "README"
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 2,
+                    "filename": "Sources/Background.cpp"
+                },
+                {
+                    "blank": 15,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "Sources/Bat.cpp"
+                },
+                {
+                    "blank": 35,
+                    "code": 151,
+                    "comment": 0,
+                    "filename": "Sources/Batman.cpp"
+                },
+                {
+                    "blank": 17,
+                    "code": 141,
+                    "comment": 0,
+                    "filename": "Sources/EntityList.cpp"
+                },
+                {
+                    "blank": 29,
+                    "code": 143,
+                    "comment": 12,
+                    "filename": "Sources/GameEngine.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Sources/GraphicEffects/Darkness.cpp"
+                },
+                {
+                    "blank": 20,
+                    "code": 142,
+                    "comment": 1,
+                    "filename": "Sources/IronMan.cpp"
+                },
+                {
+                    "blank": 61,
+                    "code": 161,
+                    "comment": 4,
+                    "filename": "Sources/Level1.cpp"
+                },
+                {
+                    "blank": 32,
+                    "code": 155,
+                    "comment": 2,
+                    "filename": "Sources/Level2.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 63,
+                    "comment": 0,
+                    "filename": "Sources/LevelList.cpp"
+                },
+                {
+                    "blank": 23,
+                    "code": 129,
+                    "comment": 7,
+                    "filename": "Sources/Menu.cpp"
+                },
+                {
+                    "blank": 15,
+                    "code": 54,
+                    "comment": 0,
+                    "filename": "Sources/Policecop.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "Sources/Powers/Hurricane.cpp"
+                },
+                {
+                    "blank": 25,
+                    "code": 148,
+                    "comment": 0,
+                    "filename": "Sources/Superman.cpp"
+                },
+                {
+                    "blank": 38,
+                    "code": 276,
+                    "comment": 3,
+                    "filename": "Sources/Thor.cpp"
+                }
+            ]
+        }
+    ]
+}
